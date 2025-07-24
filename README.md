@@ -1,3 +1,10 @@
+To get the readme-sample.md template, run the following command in your project folder:
+```bash
+curl -o readme-sample.md https://raw.githubusercontent.com/AntonBliznuk/readme-sample/main/README.md
+```
+🧹 Reminder: Don’t forget to remove this section from your README after cloning or using the template!
+
+---
 # <emoji related to the project> Project Name
 
 <!-- Replace with your actual project name -->
